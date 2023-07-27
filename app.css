@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+    background-color: green;
+}
+
+.btn-container {
+    display: block;
+    width: fit-content;
+    margin: auto;
+    align-items: center;
+    border-radius: 8px;
+}
+
+#draw-card {
+    border: 2px solid black;
+    border-radius: 8px;
+}
+
+#deck-container {
+    display: block;
+    margin: auto;
+    align-items: center;
+
+}
+
+#deck-container .card {
+
+    width: 100%;
+    height: 100%
+}
+
+#card-area {
+    margin-top: 80px;
+}
